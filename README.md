@@ -12,8 +12,8 @@ I'm a Computer Engineering student passionate about building
 
 ## 🛠 Tech Stack
 **Languages:** Java, Python  
-**ML / AI:** Scikit-learn, TensorFlow (beginner)  
-**Web / APIs:** REST APIs, JSON  
+**ML/AI:** Applied ML, classical models, basic deep learning  
+**Web / APIs:** RESTful APIs, FastAPI  
 **Databases:** SQL  
 **Tools:** Git, GitHub, Jupyter, VS Code  
 
