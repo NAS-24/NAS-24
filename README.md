@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi, I'm Naman Sinha 👋
 
-<!--
-**NAS-24/NAS-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student passionate about building
+**data-driven systems, AI-based solutions, and real-world tech products**.
 
-Here are some ideas to get you started:
+- 🌱 Currently exploring **Machine Learning, APIs, and Agentic AI**
+- 🧠 Strong interest in **problem-solving & DSA**
+- 🚀 Love working on **hackathons and applied projects**
+- 🤝 Open to collaborations and learning opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+**Languages:** Java, Python  
+**ML / AI:** Scikit-learn, TensorFlow (beginner)  
+**Web / APIs:** REST APIs, JSON  
+**Databases:** SQL  
+**Tools:** Git, GitHub, Jupyter, VS Code  
+
+---
+
+## 📌 Featured Projects
+### 🔹 [KrishiMitra](https://github.com/NAS-24/krishi-mitra)
+Intelligent crop recommendation system using soil and weather data with ML.
+
+**Tech:** Python, ML, APIs
+
+### 🔹 [Credible](https://github.com/NAS-24/credible)
+AI-powered fact-checking assistant for real-time misinformation detection.
+
+**Tech:** AI, Web, Agentic workflows
+
+### 🔹 [SHAKTI](https://github.com/NAS-24/shakti-satellite-image-analysis)
+Satellite image analysis using U-Net for urbanization & deforestation trends.
+
+**Tech:** Python, Deep Learning, Computer Vision
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: *(add your LinkedIn here)*
+- GitHub: https://github.com/NAS-24
+
+---
+
+⭐ *Always learning, building, and improving.*
