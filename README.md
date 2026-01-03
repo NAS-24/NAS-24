@@ -38,7 +38,8 @@ Satellite image analysis using U-Net for urbanization & deforestation trends.
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: *(add your LinkedIn here)*
+- LinkedIn: *www.linkedin.com/in/
+naman-sinha-dev*
 - GitHub: https://github.com/NAS-24
 
 ---
